@@ -5,8 +5,7 @@
 About me 
 
 
-
--Passionate keyboard builder 
+  Passionate keyboard builder 
 
 Specialties: Git, C++, C, Python, Office Suite, Adobe Suite, Google Suite
 
