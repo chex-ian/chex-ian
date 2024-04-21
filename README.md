@@ -5,7 +5,4 @@
 
 About me 
 
-    
-    Specialties: Git, C++, C, Python, Office Suite, Adobe Suite, Google Suite
-  
-    Academic: Data Structures
+Specialties: Git, C++, C, Python, Office Suite, Adobe Suite, Google Suite
