@@ -3,8 +3,7 @@
 
 I am an aspiring Software Developer form Chicago 
 
-### About me 
+About me 
 
-
-Specialties: Git, C++, C, Python, Office Suite, Adobe Suite, Google Suite
-Academic: Data Structures
+  Specialties: Git, C++, C, Python, Office Suite, Adobe Suite, Google Suite
+  Academic: Data Structures
