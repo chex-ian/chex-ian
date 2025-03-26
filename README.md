@@ -8,5 +8,5 @@ Im studying to become a software developer
 
 Passionate keyboard builder 
 
-+ Specialties: Git, C++, C, Python, JavaScript, Office Suite, Adobe Suite, Google Suite
++ Specialties: Git, C++, C, Python, GO, F#, SQL, Office Suite, Adobe Suite, Google Suite
 
